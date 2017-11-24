@@ -19,7 +19,7 @@ python --version
 You should be able to see the version of python that is installed.  
 Step 6: Install other libraries
 ```
-pip install datetime, pymongo, uuid
+pip install datetime pymongo uuid
 ```
 Step 7: Run the app
 ```
